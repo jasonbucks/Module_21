@@ -1,4 +1,4 @@
-pragma solidity ^0.5.0;
+pragma solidity ^0.5.5;
 
 import "./KaseiCoin.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol";
@@ -21,7 +21,6 @@ contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale { // UPDATE THE CONTRA
     }
 }
 
-/*
 contract KaseiCoinCrowdsaleDeployer {
     // Create an `address public` variable called `kasei_token_address`.
     // I AM USING 'coin' INSTEAD OF 'token' IN MY VARIABLE NAMES.  ALSO STYLING VARIABLE NAMES AS CAMEL CASE INSTEAD OF SNAKE CASE
@@ -55,4 +54,3 @@ contract KaseiCoinCrowdsaleDeployer {
         coin.renounceMinter();
     }
 }
-*/
