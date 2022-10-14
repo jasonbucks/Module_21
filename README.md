@@ -1,6 +1,6 @@
 # Module_21 - Tokenomics
 
-![Smart Contract](Images/21-4-application-image.png)
+![Tokenomics](Images/21-4-application-image.png)
 
 After waiting for years and passing several tests, I was selected by the Martian Aerospace Agency to be part of the first human colony on Mars. As a prominent fintech professional, I was chosen to lead a project to develop a monetary system for the new Mars colony. I have decided to base this new monetary system on blockchain technology, and to define a new cryptocurrency called KaseiCoin. (“Kasei” means “Mars” in Japanese.)
 
@@ -36,11 +36,11 @@ Just upload the Solidity file contained in this repository to your Remix IDE wor
 
 ### Successful Compilation of KaseiCoin
 
-![Successful Compilation KaseiCoin](Images/KaseiCoin Token Compiled.png)
+![Successful Compilation KaseiCoin](Images/KaseiCoinTokenCompiled.png)
 
 ### Successful Compilation of KaseiCoinCrowdsale and KaseiCoinCrowdsaleDeployer
 
-![Successful Compilation KaseiCoinCrowdsaleDeployer](Images/KaseiCoin Crowdsale Deployer Compiled.png)
+![Successful Compilation KaseiCoinCrowdsaleDeployer](Images/KaseiCoinCrowdsaleDeployerCompiled.png)
 
 ### Successful Deployment
 
