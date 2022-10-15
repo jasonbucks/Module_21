@@ -44,7 +44,7 @@ Just upload the Solidity file contained in this repository to your Remix IDE wor
 
 ### Successful Deployment
 
-![Successful Deployment](Execution_Results/successful_deployment.png)
+![Successful Deployment](Images/DeploymentScreenRecording.mp4)
 
 ---
 
